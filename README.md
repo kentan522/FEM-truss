@@ -1,5 +1,5 @@
 # FEM-truss
-Finite element analysis on the collapse mechanism of a truss using object-oriented programming on MATLAB (university coursework).
+Finite element analysis on the collapse mechanism of a truss using object-oriented programming on MATLAB.
 
 The TRUSS.m file represents the truss class that can be used to generate an instance of a truss object.
 
